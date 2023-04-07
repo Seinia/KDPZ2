@@ -22,8 +22,7 @@
             android:layout_margin="12dp"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            tools:src="@drawable/cat" />
+            app:layout_constraintTop_toTopOf="parent" />
 
         <TextView
             android:id="@+id/tvnamecat2"
@@ -51,7 +50,7 @@
             app:layout_constraintTop_toBottomOf="@id/tvnamecat2" />
 
         <Button
-            android:id="@+id/btncat2"
+            android:id="@+id/btnback"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginBottom="20dp"

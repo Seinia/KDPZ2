@@ -20,8 +20,7 @@
         android:label="fragment_second"
         tools:layout="@layout/fragment_second">
         <argument
-            android:name="argstring"
-            app:argType="string"
-            app:nullable="true" />
+            android:name="foodData"
+            app:argType="com.example.secondlab.FoodData" />
     </fragment>
 </navigation>
