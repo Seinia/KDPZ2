@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">SecondLab</string>
+    <string name="details">Details</string>
+    <string name="FragmentDesc">Кулінарні рецепти</string>
+    <string name="cat_name">Cat Name</string>
+    <string name="cat_desc">Cat Desc</string>
+    <string name="back">Повернутися</string>
+</resources>
